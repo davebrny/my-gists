@@ -2,8 +2,9 @@
 
 | functions | &nbsp; |  
 |:----------|:-------|  
-| [ordinal()](https://gist.github.com/davebrny/a51dcb71f2ef652464bc863ea64aa5cc) &nbsp;   | add an ordinal suffix to a number (1st, 2nd, 3rd etc)  
 | [get_selected()](https://gist.github.com/davebrny/103504a50fb5285804213bd358957c32) &nbsp; | get selected text (or path of selected file/folder)  
+| [ordinal()](https://gist.github.com/davebrny/a51dcb71f2ef652464bc863ea64aa5cc) &nbsp;   | add an ordinal suffix to a number (1st, 2nd, 3rd etc)  
+| [list ahk](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) &nbsp;       | create a list of .ahk files to be #included in a script  
 | [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) &nbsp;     | message commands that are quick to type and easy to switch between  
 | [send_hotkey()](https://gist.github.com/davebrny/ce25602584c77a50959334ce8ec2e989) &nbsp;  | prepare hotkey text for the send command: ^!a to ^!{a}  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) &nbsp;        | strip comments, comments blocks and empty lines from a string  
@@ -47,3 +48,4 @@
 
 &nbsp;
 
+most of my gists readme files are in markdown (.md) format so if you want to be able to view them as .txt in file explorer's preview pane, then you can download and run this [.reg file](https://gist.github.com/davebrny/97ecb29ac5808799e9cb233be24a2c88#file-md-file-explorer-preview-reg)
