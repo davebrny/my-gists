@@ -5,7 +5,7 @@
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) &nbsp; | change, restore or reset various built-in script settings  | 1.0 |  
 | [ordinal()](https://gist.github.com/davebrny/a51dcb71f2ef652464bc863ea64aa5cc) &nbsp;   | add an ordinal suffix to a number (1st, 2nd, 3rd etc)  
 | [list_ahk()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) &nbsp;       | create a list of .ahk files to be #included in a script  
-| [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) &nbsp;     | message commands that are quick to type and easy to switch between  
+| [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) &nbsp;     | message commands that are quick to type and easy to switch between  | 2.2 |  
 | [randomer()](https://gist.github.com/davebrny/564328c8cfd9f85987ed9d4d0578d423) &nbsp;     | the default random command but without returning the same number twice in a row  
 | [send_hotkey()](https://gist.github.com/davebrny/ce25602584c77a50959334ce8ec2e989) &nbsp;  | prepare hotkey text for the send command: ^!a to ^!{a}  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) &nbsp;        | strip comments, comments blocks and empty lines from a string  | 2.1 |  
