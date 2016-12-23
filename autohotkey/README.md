@@ -17,8 +17,9 @@
 
 | hotkeys   | &nbsp; |  
 |:----------|:-------|  
-| [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) &nbsp;   | window management hotkeys remapped for one handed use  
-| [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) &nbsp;       | wrap selected text in \<symbols\>  
+| [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)     | load the root url of the current webpage  
+| [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) &nbsp; | window management hotkeys remapped for one handed use  
+| [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) &nbsp; | wrap selected text in \<symbols\>  
 
 
 &nbsp;
@@ -27,7 +28,6 @@
 
 | hotstrings | &nbsp; |  
 |:-----------|:-------|  
-| [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)     | load the root url of the current webpage  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9)  | hotstrings to quickly type various date formats  
 | [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) |  
 
