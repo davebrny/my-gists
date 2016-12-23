@@ -17,6 +17,7 @@
 
 | hotkeys   | &nbsp; |  
 |:----------|:-------|  
+| [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba)     | switch between the various time ranges (hour, day, week, month, year)    
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)     | load the root url of the current webpage  
 | [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) &nbsp; | window management hotkeys remapped for one handed use  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) &nbsp; | wrap selected text in \<symbols\>  
