@@ -3,6 +3,7 @@
 | auto-executes | &nbsp; | version |  
 |:--------------|:-------|:-------:|  
 | [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | tray option to start your scripts when windows starts |  |  
+| [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) | default items/actions for the tray menu  
 
 &nbsp;
 
@@ -25,10 +26,13 @@
 | hotkeys   | &nbsp; | version |  
 |:----------|:-------|:-------:|  
 | [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba)     | switch between the various time ranges (hour, day, week, month, year)    
+| [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401)   | search the selected word in the local autohotkey .chm help file  
+| [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) | (for the portable version that lacks the context menu option)  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)     | load the root url of the current webpage  
 | [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) &nbsp; | window management hotkeys remapped for one handed use  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) &nbsp; | wrap selected text in \<symbols\> | 2.3 |  
 | [youtube hotkeys for vlc](https://gist.github.com/davebrny/f6da569e2360d6bfd896eb7d50c70f66) &nbsp; | vlc hotkeys remapped to match youtube's hotkeys  
+
 
 &nbsp;
 
@@ -49,14 +53,6 @@
 
 &nbsp;
 
-
-
-| misc       | &nbsp; |  
-|:-----------|:-------|  
-| [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401)   | search the selected word in the local autohotkey .chm help file  
-| [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) | default items/actions for the tray menu  
-
-&nbsp;
 
 
 most of my gists readme files are in markdown (.md) format so if you want to be able to view them as .txt in file explorer's preview pane, then you can download and run this [.reg file](https://gist.github.com/davebrny/97ecb29ac5808799e9cb233be24a2c88#file-md-file-explorer-preview-reg)
