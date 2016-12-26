@@ -18,6 +18,7 @@
 | [randomer()](https://gist.github.com/davebrny/564328c8cfd9f85987ed9d4d0578d423) &nbsp; | the default random command but without returning the same number twice in a row  
 | [send_hotkey()](https://gist.github.com/davebrny/ce25602584c77a50959334ce8ec2e989) &nbsp; | prepare hotkey text for the send command: ^!a to ^!{a}  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) &nbsp; | strip comments, comments blocks and empty lines from a string  | 2.1 |  
+| [sublime_file()](https://gist.github.com/davebrny/51fe9b24b17db5960700a3f1947b8c82) &nbsp; | get the file that is open/focused in sublime text  
 
 &nbsp;
 
