@@ -2,6 +2,7 @@
 
 | auto-executes | &nbsp; | version |  
 |:--------------|:-------|:-------:|  
+| [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) | full list script settings to be #included in your main script or used as a quick reference |  |  
 | [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | tray option to start your scripts when windows starts |  |  
 | [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) | default items/actions for the tray menu  
 
@@ -29,7 +30,8 @@
 |:----------|:-------|:-------:|  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) |  change the case of selected text  
 | [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba)     | switch between the various time ranges (hour, day, week, month, year)    
-| [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401)   | search the selected word in the local autohotkey .chm help file  
+| [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401) | search the selected word in the local autohotkey .chm help file  
+| [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0) | show a list of open folders when youre at a "save as" or "open" dialog  
 | [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) | (for the portable version that lacks the context menu option)  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)     | load the root url of the current webpage  
 | [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) &nbsp; | window management hotkeys remapped for one handed use  
