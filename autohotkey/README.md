@@ -27,6 +27,7 @@
 
 | hotkeys   | &nbsp; | version |  
 |:----------|:-------|:-------:|  
+| [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) |  change the case of selected text  
 | [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba)     | switch between the various time ranges (hour, day, week, month, year)    
 | [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401)   | search the selected word in the local autohotkey .chm help file  
 | [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) | (for the portable version that lacks the context menu option)  
