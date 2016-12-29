@@ -31,7 +31,7 @@
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) |  change the case of selected text  
 | [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba) | switch between the various time ranges (hour, day, week, month, year)    
 | [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401) | search the selected word in the local autohotkey .chm help file  
-| [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0) | show a list of open folders when youre at a "save as" or "open" dialog  
+| [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0) | show a list of open folders when youre at a "save as" or "open" dialog | 1.2 |  
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28) | single tap to send a media key, double tap to send the original key  
 | [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) | (for the portable version that lacks the context menu option)  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906) | load the root url of the current webpage  
