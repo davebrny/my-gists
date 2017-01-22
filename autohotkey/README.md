@@ -15,7 +15,7 @@
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) | change, restore or reset various built-in script settings  | 1.1 |  
 | [double_tap()](https://gist.github.com/davebrny/383ab4158e4220f5658223475ad57719) | double tap a key to send a hotkey or a label  |  |  
 | [ordinal()](https://gist.github.com/davebrny/a51dcb71f2ef652464bc863ea64aa5cc) | add an ordinal suffix to a number (1st, 2nd, 3rd etc)  
-| [list_ahk()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) | create a list of .ahk files to be #included in your main script  | 1.6 |  
+| [list_ahk()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) | create a list of .ahk files to be #included in your main script  | 1.7 |  
 | [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) | message commands that are quick to type and easy to switch between  | 2.3 |  
 | [randomer()](https://gist.github.com/davebrny/564328c8cfd9f85987ed9d4d0578d423) | the default random command but without returning the same number twice in a row  
 | [send_hotkey()](https://gist.github.com/davebrny/ce25602584c77a50959334ce8ec2e989) | prepare hotkey text for the send command: ^!a to ^!{a}  
