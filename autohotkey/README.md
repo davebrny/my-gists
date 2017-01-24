@@ -15,6 +15,7 @@
 | [between()](https://gist.github.com/davebrny/a440ce36d11364d2f7cfc6d89d2f3f63) | split between two characters/words/sentences  |  |  
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) | change, restore or reset various built-in script settings  | 1.1 |  
 | [clipboard()](https://gist.github.com/davebrny/9cb0c53fa049832ab46925f3597637c5) | one line clipboard commands  |  |  
+| [counter_reset()](https://gist.github.com/davebrny/65e1e8dc9784b85d352c26ef184f9d32) | keep a number within a certain range when adding/subtracting  |  |  
 | [days_in_month()](https://gist.github.com/davebrny/d8a361412985c494e5b3a5a2954dde5c) | find how many days are in a given month    |  |  
 | [double_tap()](https://gist.github.com/davebrny/383ab4158e4220f5658223475ad57719) | double tap a key to send a hotkey or a label  |  |  
 | [ordinal()](https://gist.github.com/davebrny/a51dcb71f2ef652464bc863ea64aa5cc) | add an ordinal suffix to a number (1st, 2nd, 3rd etc)  
