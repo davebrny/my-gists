@@ -12,6 +12,7 @@
 
 | functions | &nbsp; | version |  
 |:----------|:-------|:-------:|  
+| [between()](https://gist.github.com/davebrny/a440ce36d11364d2f7cfc6d89d2f3f63) | split between two characters/words/sentences  |  |  
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) | change, restore or reset various built-in script settings  | 1.1 |  
 | [days_in_month()](https://gist.github.com/davebrny/d8a361412985c494e5b3a5a2954dde5c) | find how many days are in a given month    |  |  
 | [double_tap()](https://gist.github.com/davebrny/383ab4158e4220f5658223475ad57719) | double tap a key to send a hotkey or a label  |  |  
