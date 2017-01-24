@@ -3,7 +3,7 @@
 | auto-executes | &nbsp; | version |  
 |:--------------|:-------|:-------:|  
 | [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) | full list script settings to be #included in your main script or used as a quick reference |  |  
-| [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | tray option to start your scripts when windows starts |  |  
+| [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | tray option to start your scripts when windows starts | 2.1 |  
 | [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) | default items/actions for the tray menu  
 
 &nbsp;
