@@ -34,7 +34,8 @@
 | hotkeys   | &nbsp; | version |  
 |:----------|:-------|:-------:|  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) |  change the case of selected text  
-| [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba) | switch between the various time ranges (hour, day, week, month, year)    
+| [file properties](https://gist.github.com/davebrny/fd31caabaa02a3e7e60095011e97b783) | open properties for the selected file (and use "run" if the hotkey didnt send)  
+| [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba) | switch between the various time ranges (hour, day, week, month, year)  
 | [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401) | search the selected word in the local autohotkey .chm help file  
 | [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0) | show a list of open folders when youre at a "save as" or "open" dialog | 1.3 |  
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28) | single tap to send a media key, double tap to send the original key  
@@ -52,7 +53,7 @@
 | hotstrings | &nbsp; |  
 |:-----------|:-------|  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) | hotstrings to quickly type various date formats  
-| [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) |  | 1.5 |  
+| [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) | &nbsp; | 1.5 |  
 
 &nbsp;
 
