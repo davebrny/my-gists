@@ -52,7 +52,7 @@
 | hotstrings | &nbsp; |  
 |:-----------|:-------|  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) | hotstrings to quickly type various date formats  
-| [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) |  
+| [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) |  | 1.5 |  
 
 &nbsp;
 
