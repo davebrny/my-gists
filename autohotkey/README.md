@@ -67,4 +67,10 @@
 
 
 
+| misc | &nbsp; | version |  
+|:-----|:-------|:-------:|  
+| [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) | goto line and highlight the error text (autohotkey only)  | 3 |  
+
+&nbsp;
+
 most of my gists readme files are in markdown (.md) format so if you want to be able to view them as .txt in file explorer's preview pane, then you can download and run this [.reg file](https://gist.github.com/davebrny/97ecb29ac5808799e9cb233be24a2c88#file-md-file-explorer-preview-reg)
