@@ -71,7 +71,7 @@
 
 | misc | &nbsp; | version |  
 |:-----|:-------|:-------:|  
-| [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) | goto line and highlight the error text (autohotkey only)  | 3 |  
+| [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) | goto line and highlight the error text (autohotkey only)  | 3.3 |  
 
 &nbsp;
 
