@@ -27,6 +27,7 @@
 | [stored_in()](https://gist.github.com/davebrny/1c9083935a67ad58af04a12b78c91453) | get the variable stored in a name    
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) | strip comments, comments blocks and empty lines from a string  | 2.1 |  
 | [sublime_file()](https://gist.github.com/davebrny/51fe9b24b17db5960700a3f1947b8c82) &nbsp; | get the file that is open/focused in sublime text  
+| [timer()](https://gist.github.com/davebrny/0b34db1c2c0db78c4b3bb4d23ba26a9a) &nbsp; | a_tickCount or "QueryPerformanceCounter" timer   
 
 &nbsp;
 
