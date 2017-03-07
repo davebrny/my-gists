@@ -50,7 +50,7 @@
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906) | load the root url of the current webpage  
 | [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) | window management hotkeys remapped for one handed use  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) | wrap selected text in \<symbols\> | 2.4 |  
-| [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289) | microscopic clipboard manager |  |  
+| [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289) | microscopic clipboard manager | 1.1 |  
 | [youtube hotkeys for vlc](https://gist.github.com/davebrny/f6da569e2360d6bfd896eb7d50c70f66) &nbsp; | vlc hotkeys remapped to match youtube's hotkeys  
 
 
