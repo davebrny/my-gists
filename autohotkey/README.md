@@ -45,3 +45,12 @@
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289) | 📋 | microscopic clipboard manager | 1.2 |  
 | [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) || default items/actions for the tray menu  
 | [youtube hotkeys for vlc](https://gist.github.com/davebrny/f6da569e2360d6bfd896eb7d50c70f66) || vlc hotkeys remapped to match youtube's hotkeys  
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+|    |              |     
+|:---|:-------------|  
+| [file explorer previews](https://gist.github.com/davebrny/d88e0f79e7ac3630b66e4cc4f7c73bd2) | view .ahk files in windows explorer preview pane |  
+| [sublime snippets](https://gist.github.com/davebrny/978751a35b8cedbbca3d5039dcf49a52) | sublime text auto-complete snippets for some of my autohotkey scripts |  
