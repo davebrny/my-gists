@@ -29,6 +29,7 @@
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) | 📆 | hotstrings to quickly type various date formats  
 | [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) | 💬 | message commands that are quick to type and easy to switch between | 2.5 |  
 | [randomer()](https://gist.github.com/davebrny/564328c8cfd9f85987ed9d4d0578d423) || the default random command but without returning the same number twice in a row  
+| [reloadr](https://gist.github.com/davebrny/4f14e1edb4fac2fc2459c3d87fa537f7) | 🚚 | reload running scripts from a context menu  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906) || load the root url of the current webpage  
 | [script_icon()](https://gist.github.com/davebrny/2d2bc026efd177c41de1e5482b137fa2) | 🖼️ | automagically search for an icon that matches the script name  
 | [send_hotkey()](https://gist.github.com/davebrny/ce25602584c77a50959334ce8ec2e989) || prepare hotkey text for the send command: ^!a to ^!{a}  
@@ -38,7 +39,6 @@
 | [stored_in()](https://gist.github.com/davebrny/1c9083935a67ad58af04a12b78c91453) || get the variable stored in a name  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) | 🥓 | strip comments, comments blocks and empty lines from a string | 2.1 |  
 | [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) || goto line and highlight the error text (autohotkey only) | 3.4 |  
-| [sublime snippets](https://gist.github.com/davebrny/978751a35b8cedbbca3d5039dcf49a52) || sublime text snippets for some of the above functions  
 | [sublime_file()](https://gist.github.com/davebrny/51fe9b24b17db5960700a3f1947b8c82) || get the file that is open/focused in sublime text  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) | 📇 | wrap selected text in \<symbols\> | 2.4 |  
 | [timer()](https://gist.github.com/davebrny/0b34db1c2c0db78c4b3bb4d23ba26a9a) || a_tickCount or "QueryPerformanceCounter" timer  
@@ -53,4 +53,4 @@
 |    |              |     
 |:---|:-------------|  
 | [file explorer previews](https://gist.github.com/davebrny/d88e0f79e7ac3630b66e4cc4f7c73bd2) | view .ahk files in windows explorer preview pane |  
-| [sublime snippets](https://gist.github.com/davebrny/978751a35b8cedbbca3d5039dcf49a52) | sublime text auto-complete snippets for some of my autohotkey scripts |  
+| [sublime snippets](https://gist.github.com/davebrny/978751a35b8cedbbca3d5039dcf49a52) | sublime text snippets for some of the above functions |  
