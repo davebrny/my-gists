@@ -29,7 +29,7 @@
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) | 📆 | hotstrings to quickly type various date formats  
 | [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) | 💬 | message commands that are quick to type and easy to switch between | 2.5 |  
 | [randomer()](https://gist.github.com/davebrny/564328c8cfd9f85987ed9d4d0578d423) || the default random command but without returning the same number twice in a row  
-| [reloadr](https://gist.github.com/davebrny/4f14e1edb4fac2fc2459c3d87fa537f7) | 🚚 | reload running scripts from a context menu  
+| [reloadr](https://gist.github.com/davebrny/4f14e1edb4fac2fc2459c3d87fa537f7) | 🚚 | reload running scripts from a context menu  | 0.4 |  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906) || load the root url of the current webpage  
 | [script_icon()](https://gist.github.com/davebrny/2d2bc026efd177c41de1e5482b137fa2) | 🖼️ | automagically search for an icon that matches the script name  
 | [send_hotkey()](https://gist.github.com/davebrny/ce25602584c77a50959334ce8ec2e989) || prepare hotkey text for the send command: ^!a to ^!{a}  
