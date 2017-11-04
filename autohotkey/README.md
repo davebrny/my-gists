@@ -3,6 +3,7 @@
 | name |     | description | version |  
 |:-----|:---:|:------------|:-------:|  
 | [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) | 📜 | full list script settings to be #included in your main script or used as a quick reference  
+| [auto_include()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) | 📃 | create a list of .ahk files to be #included in your main script | 1.8 |  
 | [between()](https://gist.github.com/davebrny/a440ce36d11364d2f7cfc6d89d2f3f63) || split between two characters/words/sentences  
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) || change, restore or reset various built-in script settings | 1.1 |  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) || change the case of selected text  
@@ -19,7 +20,6 @@
 | [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0) | 📂 | show a list of open folders when youre at a "save as" or "open" dialog | 1.3 |  
 | [lightshot enter](https://gist.github.com/davebrny/0039e63b76254b466590a1414681f8e6) || use the enter key in lightshot to save a screenshot to the last used folder   
 | [linker](https://gist.github.com/davebrny/b85e1470d2dd886053ef3415e7198508) || generate a markdown link from the clipboard or selection | 2.1 |  
-| [list_ahk()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) | 📃 | create a list of .ahk files to be #included in your main script | 1.7.3 |  
 | [list_vars()](https://gist.github.com/davebrny/d5cf686619a3402f1426277a3359521d) | 🐛 | list the variables in the current file or label/hotkey/function  
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28) | ▶️ | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [msgbox check](https://gist.github.com/davebrny/ab814d0427a67237008dd7888cc464bd) || check the text in a msgbox for trailing characters | 1.1.1 |  
