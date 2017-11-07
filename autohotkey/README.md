@@ -2,11 +2,10 @@
 
 | name |     | description | version |  
 |:-----|:---:|:------------|:-------:|  
-| [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) | 📜 | full list script settings to be #included in your main script or used as a quick reference  
+| [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) | ⚙️ | full list script settings to be #included in your main script or used as a quick reference  
 | [auto_include()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) | 📃 | create a list of .ahk files to be #included in your main script | 1.8 |  
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) || change, restore or reset various built-in script settings | 1.1 |  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) || change the case of selected text  
-| [clipboard()](https://gist.github.com/davebrny/9cb0c53fa049832ab46925f3597637c5) || one line clipboard commands | 1.1 |  
 | [close ahk errors](https://gist.github.com/davebrny/ffb37b346ecc4ac80446f9958cd78574) || save to close any ahk error windows  
 | [compile()](https://gist.github.com/davebrny/17a64afe1233a454a5842d96317dce99) | 📦 | compile an .ahk file to .exe with the option to search for an icon  
 | [dynaclip](https://gist.github.com/davebrny/a23080af7aa3a648c5ce54fb61362416) || basic web clipper for dynalist.io  
@@ -18,18 +17,15 @@
 | [list_vars()](https://gist.github.com/davebrny/d5cf686619a3402f1426277a3359521d) | 🐛 | list the variables in the current file or label/hotkey/function  
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28) | ▶️ | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [msgbox check](https://gist.github.com/davebrny/ab814d0427a67237008dd7888cc464bd) || check the text in a msgbox for trailing characters | 1.1.1 |  
-| [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) || (for the portable version that lacks the context menu option)  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) | 📆 | hotstrings to quickly type various date formats  
 | [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) | 💬 | message commands that are quick to type and easy to switch between | 2.5 |  
 | [reloadr](https://gist.github.com/davebrny/4f14e1edb4fac2fc2459c3d87fa537f7) | 🚚 | reload running scripts from a context menu  | 0.7 |  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906) || load the root url of the current webpage  
 | [script_icon()](https://gist.github.com/davebrny/2d2bc026efd177c41de1e5482b137fa2) | 🖼️ | automagically search for an icon that matches the script name  
-| [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a) || window management hotkeys remapped for one handed use  
 | [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) | 🎧 | &nbsp; | 1.5 |  
 | [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | 🚩 | tray option to start your scripts when windows starts | 2.1 |  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) | 🥓 | strip comments, comments blocks and empty lines from a string | 2.1 |  
 | [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) || goto line and highlight the error text (autohotkey only) | 3.4 |  
-| [sublime_file()](https://gist.github.com/davebrny/51fe9b24b17db5960700a3f1947b8c82) || get the file that is open/focused in sublime text  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) | 📇 | wrap selected text in \<symbols\> | 2.4 |  
 | [timer()](https://gist.github.com/davebrny/0b34db1c2c0db78c4b3bb4d23ba26a9a) || a_tickCount or "QueryPerformanceCounter" timer  
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289) | 📋 | microscopic clipboard manager | 1.2 |  
