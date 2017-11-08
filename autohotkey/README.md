@@ -15,14 +15,14 @@
 | [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0) | 📂 | show a list of open folders when youre at a "save as" or "open" dialog | 1.3 |  
 | [linker](https://gist.github.com/davebrny/b85e1470d2dd886053ef3415e7198508) || generate a markdown link from the clipboard or selection | 2.1 |  
 | [list_vars()](https://gist.github.com/davebrny/d5cf686619a3402f1426277a3359521d) | 🐛 | list the variables in the current file or label/hotkey/function  
-| [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28) | ▶️ | turn any key into a media key, then double tap to send the original key | 1.2 |  
+| [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28) |  | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [msgbox check](https://gist.github.com/davebrny/ab814d0427a67237008dd7888cc464bd) || check the text in a msgbox for trailing characters | 1.1.1 |  
-| [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) | 📆 | hotstrings to quickly type various date formats  
-| [quick msgs](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) | 💬 | message commands that are quick to type and easy to switch between | 2.5 |  
+| [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9) |  | hotstrings to quickly type various date formats  
+| [msg()](https://gist.github.com/davebrny/c8fc4dd7af299afe5ec8883faa28784a) | 💬 | message commands that are quick to type and easy to switch between | 2.5 |  
 | [reloadr](https://gist.github.com/davebrny/4f14e1edb4fac2fc2459c3d87fa537f7) | 🚚 | reload running scripts from a context menu  | 0.7 |  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906) || load the root url of the current webpage  
 | [script_icon()](https://gist.github.com/davebrny/2d2bc026efd177c41de1e5482b137fa2) | 🖼️ | automagically search for an icon that matches the script name  
-| [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) | 🎧 | &nbsp; | 1.5 |  
+| [spotify search operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229) |  | &nbsp; | 1.5 |  
 | [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | 🚩 | tray option to start your scripts when windows starts | 2.1 |  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) | 🥓 | strip comments, comments blocks and empty lines from a string | 2.1 |  
 | [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) || goto line and highlight the error text (autohotkey only) | 3.4 |  
