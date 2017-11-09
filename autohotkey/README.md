@@ -2,7 +2,7 @@
 
 | name |     | description | version |  
 |:-----|:---:|:------------|:-------:|  
-| [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) | ⚙️ | full list script settings to be #included in your main script or used as a quick reference  
+| [all script settings](https://gist.github.com/davebrny/e1102636e46db1293831aea63cabe485) |  | full list script settings to be #included in your main script or used as a quick reference  
 | [auto_include()](https://gist.github.com/davebrny/55de3ab40499e33e40324ac6a96b70c0) | 📃 | create a list of .ahk files to be #included in your main script | 1.8 |  
 | [built_in()](https://gist.github.com/davebrny/02167ebb09cedfb922f875917c23b26b) || change, restore or reset various built-in script settings | 1.1 |  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621) || change the case of selected text  
@@ -26,7 +26,8 @@
 | [start with windows](https://gist.github.com/davebrny/bb958c31da5359263e1ba33cf7fe7fd5) | 🚩 | tray option to start your scripts when windows starts | 2.1 |  
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) | 🥓 | strip comments, comments blocks and empty lines from a string | 2.1 |  
 | [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) || goto line and highlight the error text (autohotkey only) | 3.4 |  
-| [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) | 📇 | wrap selected text in \<symbols\> | 2.4 |  
+| [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) | | wrap selected text in \<symbols\> | 2.4 |  
+| [text swap](https://gist.github.com/davebrny/8bdbef225aedf6478c2cb6414f4b9bce) | | swap text at a certain character or word |  |  
 | [timer()](https://gist.github.com/davebrny/0b34db1c2c0db78c4b3bb4d23ba26a9a) || a_tickCount or "QueryPerformanceCounter" timer  
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289) | 📋 | microscopic clipboard manager | 1.2 |  
 | [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) || default items/actions for the tray menu  
