@@ -27,7 +27,7 @@
 | [strip()](https://gist.github.com/davebrny/13b4ab574fd125d732749b406c4351d5) | 🥓 | strip comments, comments blocks and empty lines from a string | 2.1 |  
 | [sublime goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9) || goto line and highlight the error text (autohotkey only) | 3.4 |  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6) | | wrap selected text in \<symbols\> | 2.4 |  
-| [text swap](https://gist.github.com/davebrny/8bdbef225aedf6478c2cb6414f4b9bce) | | swap text at a certain character or word |  |  
+| [text swap](https://gist.github.com/davebrny/8bdbef225aedf6478c2cb6414f4b9bce) | | swap text at a certain character or word | 1.1 |  
 | [timer()](https://gist.github.com/davebrny/0b34db1c2c0db78c4b3bb4d23ba26a9a) || a_tickCount or "QueryPerformanceCounter" timer  
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289) | 📋 | microscopic clipboard manager | 1.2 |  
 | [tray menu defaults](https://gist.github.com/davebrny/63d8120c9f31c0505cfed1cfa9a6e68e) || default items/actions for the tray menu  
@@ -40,4 +40,5 @@
 |    |              |     
 |:---|:-------------|  
 | [file explorer previews](https://gist.github.com/davebrny/d88e0f79e7ac3630b66e4cc4f7c73bd2) | view .ahk files in windows explorer preview pane |  
+| [long press key list](https://gist.github.com/davebrny/ec0b107973cce88217ed14d6183e52ab) | my key list for long press.ahk |  
 | [sublime snippets](https://gist.github.com/davebrny/978751a35b8cedbbca3d5039dcf49a52) | sublime text snippets for some of the above functions |  
