@@ -11,6 +11,7 @@
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28)             |  | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) |  | (for the portable version that lacks the context menu option)  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9)            |📆| hotstrings to quickly type various date formats | 2.1 |  
+| [restart clipboard](https://gist.github.com/davebrny/91662fdc77a4ada8659be12337ad6c76)      |📋| remember the clipboard state between restarts/shutdowns  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)               |  | load the root url of the current webpage  
 | [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a)          |  | window management hotkeys remapped for one handed use  
 | [spotify operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229)      |  | search operator hotstrings: album:, artist:, year: etc | 1.5 |  
