@@ -42,7 +42,7 @@
 | [clipboard()](https://gist.github.com/davebrny/9cb0c53fa049832ab46925f3597637c5)         |  | one line clipboard commands | 1.1 |  
 | [close ahk errors](https://gist.github.com/davebrny/ffb37b346ecc4ac80446f9958cd78574)    |  | save to close any ahk error windows  
 | [compile()](https://gist.github.com/davebrny/17a64afe1233a454a5842d96317dce99)           |📦| compile an .ahk file to .exe with the option to search for an icon  
-| [ex_this()](https://gist.github.com/davebrny/c914a936c1977a525a58c88d7d03792a)           |💈 | combine auto-execute sections from #included scripts into your main script | 0.3 |  
+| [ex_this()](https://gist.github.com/davebrny/c914a936c1977a525a58c88d7d03792a)           |💈 | combine auto-execute sections from #included scripts into your main script | 0.3.6 |  
 | [goto ahk help](https://gist.github.com/davebrny/3ac1f359d3d033cfe3e072446cb3c401)       |  | search the selected word in the local autohotkey .chm help file | 1.4 |  
 | [goto error](https://gist.github.com/davebrny/ff6a00e55d9d81e4bea9fe1d852d84a9)          |   | goto line and highlight the error text (autohotkey/sublime text only) | 3.4 |  
 | [list_vars()](https://gist.github.com/davebrny/d5cf686619a3402f1426277a3359521d)         |🐛| list the variables in the current file or label/hotkey/function  
