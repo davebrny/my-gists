@@ -18,6 +18,7 @@
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6)              |  | wrap selected text in \<symbols\> | 2.4 |  
 | [text swap](https://gist.github.com/davebrny/8bdbef225aedf6478c2cb6414f4b9bce)              |  | swap text at a certain character or word | 1.1 |  
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289)         |📋| microscopic clipboard manager (text only) | 1.2 |  
+| [tiny tag](https://gist.github.com/davebrny/11fa58ee1aabeb2fb5aa9cc85eadffef)               |🏷️| add a tagspaces style [tag] to a filename | 0.2 |  
 | [youtube/vlc hotkeys](https://gist.github.com/davebrny/f6da569e2360d6bfd896eb7d50c70f66)    |  | vlc hotkeys remapped to match youtube's hotkeys  
 
 &nbsp;
