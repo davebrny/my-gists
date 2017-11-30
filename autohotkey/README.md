@@ -1,6 +1,7 @@
 | name |     | description | version |  
 |:-----|:---:|:------------|:-------:|  
 | [a_onTop](https://gist.github.com/davebrny/584985caa1fc0dd3396ca39259b68ea4)                |🎩| manage 'always on top' windows from a context menu | 0.2 |  
+| [alt esque](https://gist.github.com/davebrny/f33507521354ca9b5a8f5f185debf390)              |🎫| use alt+esc without focusing on minimised windows |  |  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621)            |  | change the case of selected text  
 | [dynaclip](https://gist.github.com/davebrny/a23080af7aa3a648c5ce54fb61362416)               |  | basic web clipper for dynalist.io  
 | [file properties](https://gist.github.com/davebrny/fd31caabaa02a3e7e60095011e97b783)        |  | open properties for the selected file | 1.1 |  
@@ -11,11 +12,11 @@
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28)             |  | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) |  | (for the portable version that lacks the context menu option)  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9)            |📆| hotstrings to quickly type various date formats | 2.1 |  
-| [restart clipboard](https://gist.github.com/davebrny/91662fdc77a4ada8659be12337ad6c76)      |📋| remember the clipboard state between restarts/shutdowns  
+| [restart clipboard](https://gist.github.com/davebrny/91662fdc77a4ada8659be12337ad6c76)      |  | remember the clipboard state between restarts/shutdowns  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)               |  | load the root url of the current webpage  
 | [shift windows](https://gist.github.com/davebrny/e617d196502fa4d4fc4806edaef1a50a)          |  | window management hotkeys remapped for one handed use  
 | [spotify operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229)      |  | search operator hotstrings: album:, artist:, year: etc | 1.5 |  
-| [[square tag](https://gist.github.com/davebrny/7dbeda0baea3ec467c804772833fe2a5)             |🏷️| add a tagspaces style [tag] to a filename | 0.3 |  
+| [[square tag]](https://gist.github.com/davebrny/7dbeda0baea3ec467c804772833fe2a5)             |🏷️| add a tagspaces style [tag] to a filename | 0.3 |  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6)              |  | wrap selected text in \<symbols\> | 2.4 |  
 | [text swap](https://gist.github.com/davebrny/8bdbef225aedf6478c2cb6414f4b9bce)              |  | swap text at a certain character or word | 1.1 |  
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289)         |📋| microscopic clipboard manager (text only) | 1.2 |  
