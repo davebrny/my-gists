@@ -1,6 +1,5 @@
 | name |     | description | version |  
 |:-----|:---:|:------------|:-------:|  
-| [alt+esque](https://gist.github.com/davebrny/f33507521354ca9b5a8f5f185debf390)              |🎫| use alt+esc without focusing on minimised windows |  |  
 | [change case](https://gist.github.com/davebrny/7712575122bbed789416ca4800391621)            |  | change the case of selected text  
 | [dynaclip](https://gist.github.com/davebrny/a23080af7aa3a648c5ce54fb61362416)               |  | basic web clipper for dynalist.io  
 | [file properties](https://gist.github.com/davebrny/fd31caabaa02a3e7e60095011e97b783)        |  | open properties for the selected file | 1.1 |  
@@ -11,7 +10,7 @@
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28)             |  | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [onTop](https://gist.github.com/davebrny/584985caa1fc0dd3396ca39259b68ea4)                  |🎩| manage 'always on top' windows from a context menu | 0.2 |  
 | [open with sublime text](https://gist.github.com/davebrny/28bae35c10b67df67b993e7c30cfdc71) |  | (for the portable version that lacks the context menu option)  
-| [peek under](https://gist.github.com/davebrny/c513afb65444768657d61f960ef8c037)             |👁️| peek under the current window without deactivating it |  |  
+| [peek under](https://gist.github.com/davebrny/c513afb65444768657d61f960ef8c037)             |👁️| peek under the current window without deactivating it | 0.3 |  
 | [quick dates](https://gist.github.com/davebrny/5155f65b53e50f4ddf615cd464c092a9)            |📆| hotstrings to quickly type various date formats | 2.1 |  
 | [restart clipboard](https://gist.github.com/davebrny/91662fdc77a4ada8659be12337ad6c76)      |  | remember the clipboard state between restarts/shutdowns  
 | [root url](https://gist.github.com/davebrny/964e124eb1655675a657755215a77906)               |  | load the root url of the current webpage  
