@@ -5,7 +5,7 @@
 | [file properties](https://gist.github.com/davebrny/fd31caabaa02a3e7e60095011e97b783)        |  | open properties for the selected file | 1.1 |  
 | [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba)      |🔎| switch between the various time ranges (hour, day, week, month, year)  
 | [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0)       |📂| show a list of open folders when youre at a "save as" or "open" dialog | 1.3 |  
-| [lightshot+](https://gist.github.com/davebrny/6746782dc720820cd61a552f470fe9cf)             |  | various improvements for the lightshot screenshot app | 0.4 |  
+| [lightshot+](https://gist.github.com/davebrny/6746782dc720820cd61a552f470fe9cf)             |  | various improvements for the lightshot screenshot app | 0.4.1 |  
 | [linker](https://gist.github.com/davebrny/b85e1470d2dd886053ef3415e7198508)                 |🔗| generate a markdown link from the clipboard or selection | 2.1 |  
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28)             |  | turn any key into a media key, then double tap to send the original key | 1.2 |  
 | [onTop](https://gist.github.com/davebrny/584985caa1fc0dd3396ca39259b68ea4)                  |🎩| manage 'always on top' windows from a context menu | 0.2 |  
@@ -27,7 +27,6 @@
 ## misc
 |    |              |     
 |:---|:-------------|  
-| [github repos](https://github.com/search?&q=user%3Adavebrny+topic%3Aautohotkey)             | my autohotkey repos  |  
 | [file explorer previews](https://gist.github.com/davebrny/d88e0f79e7ac3630b66e4cc4f7c73bd2) | view .ahk files in windows explorer preview pane |  
 | [long press key list](https://gist.github.com/davebrny/ec0b107973cce88217ed14d6183e52ab)    | my key list for long press.ahk |  
 | [sublime snippets](https://gist.github.com/davebrny/978751a35b8cedbbca3d5039dcf49a52)       | sublime text auto-complete snippets for some of the functions below | 
