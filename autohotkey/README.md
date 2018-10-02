@@ -18,6 +18,7 @@
 | [spotify operators](https://gist.github.com/davebrny/21b9f8147c82e66c913226ec6a8bc229)      |  | search operator hotstrings: album:, artist:, year: etc | 1.5 |  
 | [[square tag]](https://gist.github.com/davebrny/7dbeda0baea3ec467c804772833fe2a5)             |🏷️| add a tagspaces style [tag] to a filename | 0.3.1 |  
 | [text wrap](https://gist.github.com/davebrny/088c48d6678617876b34f53571e92ee6)              |  | wrap selected text in \<symbols\> | 2.4 |  
+| [text replace](https://gist.github.com/davebrny/7e956b78f422928ec3e140545fe10483)           |  | replace a character with another, interactively | 1.0 |  
 | [text swap](https://gist.github.com/davebrny/8bdbef225aedf6478c2cb6414f4b9bce)              |  | swap text at a certain character or word | 1.1 |  
 | [tiny clipboard](https://gist.github.com/davebrny/1d1cf0b3041b031ce06bfe44a10cd289)         |📋| microscopic clipboard manager (text only) | 1.2 |  
 | [youtube/vlc hotkeys](https://gist.github.com/davebrny/f6da569e2360d6bfd896eb7d50c70f66)    |  | vlc hotkeys remapped to match youtube's hotkeys  
