@@ -5,6 +5,7 @@
 | [file properties](https://gist.github.com/davebrny/fd31caabaa02a3e7e60095011e97b783)        |  | open properties for the selected file | 1.1 |  
 | [google time range](https://gist.github.com/davebrny/101683d4b0277c9d4dd0b13ba82a4bba)      |🔎| switch between the various time ranges (hour, day, week, month, year)  
 | [goto open folder](https://gist.github.com/davebrny/4438ca257eb3954a08da5dea181085b0)       |📂| show a list of open folders when youre at a "save as" or "open" dialog | 1.3 |  
+| [i.mage](https://gist.github.com/davebrny/1cf149ffd9ced3792389c609a69f5db5)                 |🧙‍♂️| one click image download | 0.1 |  
 | [lightshot+](https://gist.github.com/davebrny/6746782dc720820cd61a552f470fe9cf)             |  | various improvements for the lightshot screenshot app | 0.4.3 |  
 | [linker](https://gist.github.com/davebrny/b85e1470d2dd886053ef3415e7198508)                 |🔗| generate a markdown link from the clipboard or selection | 2.1 |  
 | [media keys](https://gist.github.com/davebrny/0fec50393cb06a4f51a13ec7d1b77b28)             |  | turn any key into a media key, then double tap to send the original key | 1.2 |  
